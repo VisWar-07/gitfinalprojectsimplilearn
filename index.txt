@@ -8,3 +8,5 @@ Adding Files and branching structure to github.
 
 5] Commiting changes to feature1 branch after integrating Integration branch to hotfix and master.
    and will merge feature1 branch to master, hotfix and integration branch
+
+6] Making changes to hotfix branch after deleting feature1 branch and post that hotfix branch will get merge to integration branch and master branch.
