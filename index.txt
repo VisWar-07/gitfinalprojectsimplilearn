@@ -3,3 +3,5 @@ Adding Files and branching structure to github.
 2]Checked out to feature2 branch and commiting some changes.
 
 3] Integrating feature2 branch to Integration Branch
+
+4] Adding feature 1 Commit to rebase to Integration branch
